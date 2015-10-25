@@ -194,3 +194,7 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+/Movies/app/movies/list.html
+/Movies/app/movies/controllers.js
+/Movies/app/app.js.map
+/Movies/app/app.js
